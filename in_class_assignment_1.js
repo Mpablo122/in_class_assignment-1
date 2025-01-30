@@ -16,3 +16,8 @@ if (student_score >= 60) {
 } else { 
     console.log("Failed");
 }
+
+//Task 3
+for (let i = 10; i >= 1;  i--) {
+    console.log("Iteration", i)
+}
